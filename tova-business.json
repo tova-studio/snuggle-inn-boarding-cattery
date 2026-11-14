@@ -1,0 +1,74 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-14T00:00:49.020Z",
+  "slug": "snuggleinn",
+  "name": "Snuggle Inn Boarding Cattery",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Vets",
+    "niche": "vets",
+    "group": "Health & medical"
+  },
+  "contact": {
+    "phone": "+6433276454",
+    "email": "info@snuggleinn.co.nz",
+    "address": "166 Giles Rd, Kaiapoi"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/108767432544276"
+  },
+  "about": {
+    "overview": "Our motto says it all, and we truly believe that we are the best cat hotel around.",
+    "tagline": "Snuggle-Inn Boarding Cattery",
+    "services": [
+      "why us?",
+      "A must",
+      "follow us"
+    ]
+  },
+  "before": {
+    "url": "http://www.snuggleinn.co.nz/",
+    "domain": "snuggleinn.co.nz",
+    "finalUrl": "https://www.snuggleinn.co.nz/",
+    "title": "Snuggle-Inn Boarding Cattery",
+    "pages": 6,
+    "score": 62,
+    "assessedAt": "2026-11-12T05:26:28.875Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "img-alt",
+        "title": "Images missing descriptions",
+        "evidence": "19 of 19 images have no alt text (accessibility and SEO)."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/snuggle-inn-boarding-cattery/",
+    "repoUrl": "https://github.com/tova-studio/snuggle-inn-boarding-cattery",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-14T00:00:49.020Z"
+  }
+}
