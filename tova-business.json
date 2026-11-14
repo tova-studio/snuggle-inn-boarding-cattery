@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "source": "tova-explore",
-  "generatedAt": "2026-11-14T00:00:49.020Z",
+  "generatedAt": "2026-11-14T00:07:29.481Z",
   "slug": "snuggleinn",
   "name": "Snuggle Inn Boarding Cattery",
   "city": "Christchurch",
@@ -69,6 +69,6 @@
     "repoUrl": "https://github.com/tova-studio/snuggle-inn-boarding-cattery",
     "generator": "claude",
     "screenshot": "screenshots/after-desktop.jpg",
-    "publishedAt": "2026-11-14T00:00:49.020Z"
+    "publishedAt": "2026-11-14T00:07:29.481Z"
   }
 }
